@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.search-list {
+  color: #475569;
+  font-size: 15px;
+  font-family: roboto;
+  font-weight: roboto;
+}
+.arrow {
+  height: 20px;
+  width: 20px;
+}
+.list-container {
+  list-style-type: none;
+  width: 400px;
+  display: flex;
+
+  justify-content: space-between;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
